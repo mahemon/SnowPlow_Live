@@ -31,3 +31,10 @@ For the interactive maps, download the `.html` file and open it in your browser.
 
 # Copyright
 This repository is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+
+### Deviation Map
+[View Deviation Map](https://mahemon.github.io/SnowPlow_Live/ui_string/plots/deviation_map_updated.html)
+
+### Radar Object Map
+[View Radar Object Map](https://mahemon.github.io/SnowPlow_Live/ui_string/plots/radar_map_updated.html)
+
